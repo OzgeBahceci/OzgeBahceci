@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Profile views](https://gpvc.arturio.dev/Naereen)
 -->
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=OzgeBahceci&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=OzgeBahceci&show_icons=true&theme=radical)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
 

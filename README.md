@@ -8,11 +8,6 @@
 <br/>
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OzgeBahceci&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgeBahceci&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=angular,react,androidstudio,apple,javascript,dotnet,cs,mssql" />
 </p>
 
